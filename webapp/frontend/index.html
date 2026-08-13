@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArcheoOCR - Extracción Premium de Tablas</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="glass-container animate__animated animate__fadeIn">
+        <header>
+            <h1>ArcheoOCR</h1>
+            <p>Inteligencia Arqueológica para la Extracción de Datos</p>
+        </header>
+
+        <main>
+            <section id="upload-section" class="card">
+                <div class="drop-zone" id="drop-zone">
+                    <div class="drop-zone__content">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-upload-cloud"><polyline points="16 16 12 12 8 16"></polyline><line x1="12" y1="12" x2="12" y2="21"></line><path d="M20.39 18.39A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.3"></path><polyline points="16 16 12 12 8 16"></polyline></svg>
+                        <p class="drop-zone__prompt">Arrastra tu PDF o Imagen aquí</p>
+                        <p style="opacity: 0.5; font-size: 0.8rem; margin-top: 10px;">PDF, PNG, JPG hasta 500MB</p>
+                    </div>
+                    <input type="file" name="file" id="file-input" class="hide" accept=".pdf,image/*">
+                </div>
+                <div id="file-info" class="hide animate__animated animate__fadeInUp" style="text-align: center; margin-top: 20px;">
+                    <p id="filename-display" style="margin-bottom: 15px; font-weight: 600;"></p>
+                    <button id="process-btn" class="primary-btn">Iniciar Extracción Inteligente</button>
+                </div>
+            </section>
+
+            <section id="status-section" class="hide container-sm">
+                <div class="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+                <p id="status-text" style="text-align: center; font-weight: 300;">Preparando motor OCR...</p>
+                <p id="status-detail" style="text-align: center; font-size: 0.8rem; opacity: 0.6; margin-top: 5px;"></p>
+            </section>
+
+            <section id="results-section" class="hide">
+                <!-- Secciones de Resultados -->
+            <div class="results-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
+                <div class="tabs-nav">
+                    <button class="tab-btn active" onclick="switchMainTab('results')">Resultados de Extracción</button>
+                    <button class="tab-btn" onclick="switchMainTab('process')">Proceso Visual AI</button>
+                </div>
+                <div class="export-actions" style="display: flex; gap: 10px; display: none;" id="exportGroup">
+                    <button id="newExtractionBtn" class="btn-primary" style="background: #333; color: white;">Nueva Extracción</button>
+                    <button id="exportExcelBtn" class="btn-primary" style="background: #217346;">Excel</button>
+                    <button id="exportCsvBtn" class="btn-primary" style="background: #0088cc;">CSV</button>
+                    <button id="exportWordBtn" class="btn-primary" style="background: #2b579a;">Word</button>
+                    <button id="exportPdfBtn" class="btn-primary" style="background: #e3242b;">PDF</button>
+                </div>
+            </div>
+
+            <div id="resultsContent" class="tab-content active">
+                <div id="pagesContainer"></div>
+            </div>
+
+            <div id="processContent" class="tab-content">
+                <div class="process-gallery" id="processGallery">
+                    <div class="empty-state">Inicie una extracción para ver las capas de procesamiento.</div>
+                </div>
+            </div>
+            </section>
+        </main>
+
+        <footer style="margin-top: 60px; text-align: center; opacity: 0.4; font-size: 0.9rem;">
+            <p>&copy; 2026 Arcaica AI Research - Proyecto de Arqueología Digital</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/gridjs/dist/gridjs.umd.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

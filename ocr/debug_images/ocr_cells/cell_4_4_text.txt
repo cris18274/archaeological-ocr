@@ -1,0 +1,3 @@
+Posición: [4,4]
+Texto reconocido: 100% ce la produccion tenga que ser retrabajada fuera de la lineayaceptada
+Confianza promedio: 0.94

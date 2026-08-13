@@ -1,0 +1,3 @@
+Posición: [7,2]
+Texto reconocido: Una porcin cela orccuccior tenga que ser retrabajaca en la estacionantes de ser procesada
+Confianza promedio: 0.88

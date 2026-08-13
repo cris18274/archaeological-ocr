@@ -1,0 +1,3 @@
+Posición: [0,3]
+Texto reconocido: Efecto
+Confianza promedio: 0.99

@@ -1,0 +1,3 @@
+Posición: [5,0]
+Texto reconocido: Degradacicn de la funcion secundara fvehiculo operable. funciones de comodidacicorwenienciarecucidas ennivel de desempeno
+Confianza promedio: 0.93

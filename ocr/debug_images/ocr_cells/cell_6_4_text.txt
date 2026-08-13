@@ -1,0 +1,3 @@
+Posición: [6,4]
+Texto reconocido: 10c% ce la produccion tenga que ser retrabaada en la estacionantes de ser procesada
+Confianza promedio: 0.89

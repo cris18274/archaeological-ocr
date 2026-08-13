@@ -1,0 +1,3 @@
+Posición: [2,0]
+Texto reconocido: Ferdida o degradacin de la funcicnprimaria
+Confianza promedio: 0.90

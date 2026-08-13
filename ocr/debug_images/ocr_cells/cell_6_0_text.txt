@@ -1,0 +1,3 @@
+Posición: [6,0]
+Texto reconocido: Molestia
+Confianza promedio: 0.99

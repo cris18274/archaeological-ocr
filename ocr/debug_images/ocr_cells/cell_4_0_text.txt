@@ -1,0 +1,3 @@
+Posición: [4,0]
+Texto reconocido: Perdica o degradacin de la funcion secuncaria
+Confianza promedio: 0.91

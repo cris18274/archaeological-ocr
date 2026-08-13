@@ -1,0 +1,3 @@
+Posición: [6,1]
+Texto reconocido: Apariencia RuicoAudible. vehiculo operable.articulo es no confome y es notado por el la mayoriadelos clientes(>75%,
+Confianza promedio: 0.89

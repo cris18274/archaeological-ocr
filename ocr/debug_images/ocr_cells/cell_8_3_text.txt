@@ -1,0 +1,3 @@
+Posición: [8,3]
+Texto reconocido: Pequero inconvenicr.e al proceso.operacionu cpcradcr.
+Confianza promedio: 0.86

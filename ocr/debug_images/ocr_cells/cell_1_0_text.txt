@@ -1,0 +1,3 @@
+Posición: [1,0]
+Texto reconocido: Fallaal cumplirccnlos regulacionesgubemanentales
+Confianza promedio: 0.93

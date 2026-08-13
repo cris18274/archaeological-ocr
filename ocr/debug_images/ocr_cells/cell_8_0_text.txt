@@ -1,0 +1,3 @@
+Posición: [8,0]
+Texto reconocido: Apariencia Ruico Audible, vehicalo operable.articulo es no contorme y cs notado por clientes ciscnminatonos(<254]
+Confianza promedio: 0.89

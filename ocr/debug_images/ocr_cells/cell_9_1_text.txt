@@ -1,0 +1,3 @@
+Posición: [9,1]
+Texto reconocido: Sin efecto perceot ble
+Confianza promedio: 0.83

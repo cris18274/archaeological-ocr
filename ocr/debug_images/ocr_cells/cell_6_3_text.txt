@@ -1,0 +1,3 @@
+Posición: [6,3]
+Texto reconocido: InteTupcicnMcceraca
+Confianza promedio: 0.93

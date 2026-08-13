@@ -1,0 +1,3 @@
+Posición: [9,0]
+Texto reconocido: Sinetecto
+Confianza promedio: 0.92

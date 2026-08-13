@@ -1,0 +1,3 @@
+Posición: [0,1]
+Texto reconocido: Criterio:Severidad del Efecto en el ProductoEfecto del Cliente
+Confianza promedio: 0.94

@@ -1,0 +1,3 @@
+Posición: [5,2]
+Texto reconocido: Una porcion ce la orccuccior delalineayaceptada
+Confianza promedio: 0.89

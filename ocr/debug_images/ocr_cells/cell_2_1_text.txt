@@ -1,0 +1,3 @@
+Posición: [2,1]
+Texto reconocido: Perdida de lafuncicn orimaria vehiculo inoperable.no afecta aa segcraoperaciondelveniculc
+Confianza promedio: 0.92

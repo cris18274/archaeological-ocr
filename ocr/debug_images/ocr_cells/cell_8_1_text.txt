@@ -1,0 +1,3 @@
+Posición: [8,1]
+Texto reconocido: 2
+Confianza promedio: 0.97

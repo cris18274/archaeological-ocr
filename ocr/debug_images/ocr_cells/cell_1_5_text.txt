@@ -1,0 +1,3 @@
+Posición: [1,5]
+Texto reconocido: Puede poner en pellgro al operador ide maquina ounosis@qwesu
+Confianza promedio: 0.92

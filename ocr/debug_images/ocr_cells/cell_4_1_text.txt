@@ -1,0 +1,3 @@
+Posición: [4,1]
+Texto reconocido: Perdida de la furcion 5ecurcaria vehiculo operable.funcicnesde comodidacicorreniencia inoperaoles.
+Confianza promedio: 0.91

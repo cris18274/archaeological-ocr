@@ -1,0 +1,3 @@
+Posición: [3,2]
+Texto reconocido: una porcion de la produccion tenga que ser desechada. Desviacidn del proceso primano incluyendo decremento en lavelocidad ce la lineao mano de oora adicional.
+Confianza promedio: 0.95

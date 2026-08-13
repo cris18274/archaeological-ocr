@@ -1,0 +1,36 @@
+# Large files and datasets
+*.zip
+*.rar
+dataset/
+custom_models/
+pretrain_models/
+paddleocr_train/
+training/
+salidas_ocr/
+poppler/
+webapp/uploads/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# LaTeX / Tex artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Virtual environments
+venv/
+env/
+.env

@@ -1,0 +1,3 @@
+Posición: [3,0]
+Texto reconocido: Degradacicn de la funcion pnmana (vehiculooperable.percenunnvel reducidodecesempeno
+Confianza promedio: 0.89

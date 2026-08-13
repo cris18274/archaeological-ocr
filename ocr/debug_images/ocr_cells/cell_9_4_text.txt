@@ -1,0 +1,3 @@
+Posición: [9,4]
+Texto reconocido: ecneeopees
+Confianza promedio: 0.52

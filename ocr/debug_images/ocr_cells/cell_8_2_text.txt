@@ -1,0 +1,3 @@
+Posición: [8,2]
+Texto reconocido: Interrupciónmenor
+Confianza promedio: 0.95

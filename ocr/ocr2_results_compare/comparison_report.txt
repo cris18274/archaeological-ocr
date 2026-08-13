@@ -1,0 +1,54 @@
+REPORTE DE COMPARACIÓN OCR — Página 3
+====================================================================
+Imagen  : D:\Proyecto de Investigación_Cristian Ibadango\ocr-version\ocr-version\webapp\uploads\affc44d0-9985-4b7c-bb6f-ea1ce9cf7d85_p3.jpg
+Custom  : C:\archaeo_model
+Grid    : 39 filas × 62 cols = 2372 celdas
+Tiempo STD  : 99.2s
+Tiempo CUS  : 107.5s
+
+Celdas totales       : 2418
+Celdas no vacías STD : 84
+Celdas no vacías CUS : 134
+Celdas que coinciden : 2290 (94.7%)
+
+DETALLE — Columna 0 (etiquetas de fila):
+ROW   ESTÁNDAR                            CUSTOM                              OK?
+0     Indefinido                          Indofinldo                          XX
+1                                         Cieasa                              XX
+2     Cepillo                             Cepillo                             OK
+3     Resto                               Resto                               OK
+4     Lamina                              Lámina                              XX
+5                                         R5ss7                               XX
+6     Cepilla                             Cepillo                             XX
+7     anbuna Percutor.                    anbunA Porcutorl                    XX
+8                                         ouibuN                              XX
+9     Nodulo                              Nódulo                              XX
+10                                                                            OK
+11    Indefinidos                         Inaeainidos                         XX
+12                                        Soupasoo                            XX
+13    jebisnt Instrumento                 esisnuo Instrumento                 XX
+14                                        Ciuatibea Ciunba                    XX
+15                                        Miun6a                              XX
+16    Reutilizado/                        Orauo1 Reutilzador                  XX
+17    Apendice                            Apéndice                            XX
+18    Podos                               Podos                               OK
+19    Pico                                Pico                                OK
+20    Asa                                 Eso                                 XX
+21    Pedestal                            Ciuaudey Pedestal                   XX
+22                                        IErsapaa                            XX
+23    Basefragmento                       Base Tragmento                      XX
+24                                        8s8o                                XX
+25                                        SinuoLduur odrano                   XX
+26    PC Cuerpo deco sin                  PC Cuereo doco Sin                  XX
+27    PC Cuerpo.decocon                   PC Cuerbo Ceco con                  XX
+28    sin.PC cuerponodeco                 SinPo Cuerro no deco                XX
+29    onop/ou.odson                       DCLoD 0nop ou odaano                XX
+30    (.10%)) Bordedecorado               C19no Borde Mncoraoo                XX
+31    (+10%)                              Ee1orel 9PeaoaeP Rpaoe              XX
+32    decorado10% Borde.no                Dccoraoo ra0noo Boroeno             XX
+33    decorado(+10%) ou.apioa             decorado rP1ona 90epioa             XX
+34                                        Menus                               XX
+35    reconstruida                        Eeeonstnuiela elisea                XX
+36    Vasija.completa                     Vasla completa                      XX
+37                                                                            OK
+38                                                                            OK

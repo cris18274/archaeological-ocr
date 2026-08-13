@@ -1,0 +1,3 @@
+Posición: [0,2]
+Texto reconocido: Grado
+Confianza promedio: 1.00

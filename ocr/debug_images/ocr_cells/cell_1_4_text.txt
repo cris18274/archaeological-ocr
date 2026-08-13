@@ -1,0 +1,3 @@
+Posición: [1,4]
+Texto reconocido: Fallaal cumplir con lcs requerimiertos de seguricado sepzegnfseopnfe
+Confianza promedio: 0.78

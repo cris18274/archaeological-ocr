@@ -1,0 +1,3 @@
+Posición: [0,4]
+Texto reconocido: Criterio:Severidad del Efecto en el Proceso(Efecto de Manufactura/Ensamble
+Confianza promedio: 0.96
